@@ -36,24 +36,33 @@ body {
   color: rgb(220, 107, 173);
 }
 
-#btn{
-    padding: 1rem;
-    font-size: 1rem;
-    background-color: rgb(113, 146, 190);
-    color: #fff;
-    border-radius: 1rem;
-    border: none;
+#btn {
+  padding: 1rem;
+  font-size: 1rem;
+  background-color: rgb(113, 146, 190);
+  color: #fff;
+  border-radius: 1rem;
+  border: none;
 }
 
+#new-btn {
+  padding: 1rem;
+  font-size: 1rem;
+  background-color: rgb(113, 146, 190);
+  color: #fff;
+  border-radius: 1rem;
+  border: none;
+}
 
+#msg {
+  color: #ffffc7;
+  font-size: 5vmin;
+}
 
+.msg-container {
+  height: 15vmin;
+}
 
-
-
-
-
-
-
-
-
-
+.hide {
+  display: none;
+}
